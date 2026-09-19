@@ -16,7 +16,9 @@ python3 -m http.server 8080 --directory dist
 
 - 12 curated palettes and editable colors
 - Mist, flow, and linear compositions; remix and undo
-- Grain strength, size, softness, and light controls
+- Subtle, Balanced, and Textured presets; Balanced is the default
+- Grain strength, export-pixel spacing, softness, and light controls
+- Native-pixel center crop rendered from the full export (refresh after changing settings)
 - Desktop, ultrawide, phone, and square PNG exports
 - All rendering stays in your browser; no account or watermark
 - Four clearly marked sponsor placeholders, two on each side on wide screens
